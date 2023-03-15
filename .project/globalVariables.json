@@ -1,0 +1,18 @@
+[
+  {
+    "Constant": false,
+    "Name": "currentStep",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "1",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "numSteps",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5",
+    "IsLiteral": true
+  }
+]

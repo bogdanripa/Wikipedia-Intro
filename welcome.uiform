@@ -1,0 +1,39 @@
+﻿{
+  "Metadata": {
+    "Id": "0677b6a9-eacd-448c-9198-53fdf2fa551a",
+    "DisplayName": "welcome",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "welcome",
+    "Width": 500,
+    "Height": 400,
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "tag": "h3",
+        "content": "Welcome to the Wikipedia automation! This automation will open the wikipedia homepage, then show you around the UI ",
+        "key": "label",
+        "input": false,
+        "tableView": false,
+        "label": "Label",
+        "type": "label"
+      },
+      {
+        "label": "Let's go",
+        "showValidations": false,
+        "disableOnInvalid": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "input": true,
+        "saveOnEnter": false
+      }
+    ]
+  }
+}
