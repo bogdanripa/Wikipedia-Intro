@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Callout.Activities": "[23.4.0-beta.3661742]",
+    "UiPath.Excel.Activities": "[2.19.0-preview]",
     "UiPath.Form.Activities": "[23.4.0-beta.3661742]",
     "UiPath.System.Activities": "[23.4.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.4.0-beta.3661486]"

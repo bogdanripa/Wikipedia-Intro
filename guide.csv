@@ -1,0 +1,6 @@
+Selector	Message
+"<html app='chrome.exe' title='Wikipedia' /><webctrl class='central-featured' tag='DIV' />"	This is the wikipedia homepage. You come here to learn about almost anything
+"<html app='chrome.exe' title='Wikipedia' /><webctrl id='js-lang-list-button' tag='BUTTON' />"	"If you want to change the language you read in, you can do it from here"
+"<html app='chrome.exe' title='Wikipedia' /><webctrl id='searchInput' tag='INPUT' />"	You can type anything you wish to learn about in here
+"<html app='chrome.exe' title='Wikipedia' /><webctrl tag='BUTTON' />"	And then simply click the serach icon to see the results
+"<html app='chrome.exe' title='Wikipedia' /><webctrl class='footer-sidebar-text' idx='2' parentid='www-wikipedia-org' tag='DIV' />"	"If you want to use a mobile app instead, you can get it form here"
