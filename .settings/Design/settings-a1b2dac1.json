@@ -28,5 +28,6 @@
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.ComputerVision": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWeb.ComputerVision": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsJava.ComputerVision": "True",
-  "UiPath.UIAutomationNext.Activities.SearchStepsSAP.ComputerVision": "False"
+  "UiPath.UIAutomationNext.Activities.SearchStepsSAP.ComputerVision": "False",
+  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.WpfSelectors": "False"
 }
